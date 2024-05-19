@@ -1,3 +1,1 @@
 This is File2 and it contains nothing.
-These are more lines for File2
-And this too
