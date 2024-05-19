@@ -1,1 +1,2 @@
 This is File2 and it contains nothing.
+I would like to have more lines in File2
